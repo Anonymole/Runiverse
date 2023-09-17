@@ -10,20 +10,22 @@ As more people come on line, the editor list will grow. Editors are folks grante
 This is open for debate and we can amend/extend it as we go
 ```
 /main
-  /outline
-  /storyline (synopsis)
-    /characters
-    /settings
-    /era (timeline if appropriate)    
-  /chapters
-    /dedication
-    /prologue
-    /chapter1
-      /intent.txt
-      /body.txt
-    /chapterN...
-    /epilogue
-    /acknowledgements
+  /stories
+    /story1
+      /outline
+      /storyline (synopsis)
+        /characters
+        /settings
+        /era (timeline if appropriate)    
+      /chapters
+        /dedication
+        /prologue
+        /chapter1
+          /intent.txt
+          /body.txt
+        /chapterN...
+        /epilogue
+        /acknowledgements
 ```
 ## Originality
 No plagerism will be tolerated.  

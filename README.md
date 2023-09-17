@@ -27,6 +27,6 @@ This is open for debate and we can amend/extend it as we go
 ```
 ## Originality
 No plagerism will be tolerated.  
-If content you provide has beend found to be pulled from copyrighted sources you will be blocked.
+If content you provide has been found to be pulled from copyrighted material you will be blocked and banned.
 ## License
 Free to use for whatever purpose. Copy, publish, announce, quote, what-have-you.

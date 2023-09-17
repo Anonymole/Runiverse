@@ -8,7 +8,7 @@ Want to start a new story, either fork and share or branch with the title "New-S
 As more people come on line, the editor list will grow. Editors are folks granted permission to merge copy into the final story.
 ## Structure
 This is open for debate and we can amend/extend it as we go
-'''
+```
 /main
   /outline
   /storyline (synopsis)
@@ -24,7 +24,7 @@ This is open for debate and we can amend/extend it as we go
     /chapterN...
     /epilogue
     /acknowledgements
-'''
+```
 ## Originality
 No plagerism will be tolerated.  
 If content you provide has beend found to be pulled from copyrighted sources you will be blocked.

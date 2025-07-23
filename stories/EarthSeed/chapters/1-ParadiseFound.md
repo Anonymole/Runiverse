@@ -12,7 +12,7 @@ The transport banked left, following the coordinates that had been beaming towar
 
 "There," Marcus pointed through the viewport. "The primary seeding station."
 
-A cluster of geometric structures rose from a clearing in the forest, their surfaces gleaming with the same adaptive materials that had survived the long journey from Earth. The biodrone's main facility—part laboratory, part nursery, part factory of life itself. As they descended, Elena could see movement in the surrounding trees, shapes that darted between the canopy with fluid grace.
+A cluster of geometric structures rose from a clearing in the forest, their surfaces gleaming with the same adaptive materials that had survived the long journey from Earth. The biodrone's main facility—part laboratory, part nursery, part factory of life itself. As they descended, Elena could see movement in the surrounding trees, shapes that darted through the canopy with fluid grace.
 
 "Jesus," Marcus whispered, pressing his face to the viewport. "Are those—are those deer? They're massive."
 
@@ -38,6 +38,6 @@ The being gestured toward the forest, and Elena saw them now—dozens of figures
 
 "We are the children of your gardens," the being said. "Born from the marriage of your seeds and our world's... unique gifts." It paused, tilting its head with curiosity. "Did your machine not tell you? Did it not report that magic flows through this world like water through stone, touching all things, changing all things?"
 
-Marcus made a small sound of disbelief. Elena felt her carefully constructed understanding of their mission crumbling like sand. They had come to claim paradise, to establish humanity's first colony beyond the solar system. Instead, they had discovered something impossible—a world where Earth's children had evolved into something else entirely, something that spoke of magic as casually as others might discuss the weather.
+Marcus made a small sound of disbelief. Elena felt her carefully constructed understanding of their mission crumbling away. They had come to claim paradise, to establish humanity's first colony beyond the solar system. Instead, they had discovered something impossible—a world where Earth's children had evolved into something else entirely, something that spoke of magic as casually as others might discuss the weather.
 
 The being stepped closer, extending one long-fingered hand in what was unmistakably a gesture of greeting. "I am called Verdant-Song-of-Growing-Things. But you may call me Verde, if it is easier for your tongues. We have much to show you about the world you helped create."
